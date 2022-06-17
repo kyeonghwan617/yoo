@@ -2,7 +2,7 @@
 hy_MARKDOWN
 
 ## 이미지 넣기
-
+![불금](https://blog.eightbox.net/81)
 
 ## 강조
 굵게 표시 : **오늘은 즐거운 금요일 이야호**
